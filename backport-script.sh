@@ -33,7 +33,7 @@ function refreshBranches {
 	done
 }
 
-#refreshBranches
+refreshBranches
 
 echo -e "\n\nGetting the hashes of the commits\n"
 
